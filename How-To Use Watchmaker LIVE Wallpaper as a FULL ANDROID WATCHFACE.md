@@ -1,102 +1,4 @@
-#            NUR FÜR FULL ANDROID UHREN
 
-
-
-Deutsch:
-
-xDrip+ Watchmaker Projekt 
-
-Was ihr braucht: xDrip, Watchmaker, Tasker, AutoTools
-
-
-Apps aus derm Playstore:
-
-Bitte alle herunterladen und installieren.
-
-Apps aus dem Playstore:
-Installiert bitte zuerst die aktuelle xDrip+ Version. 
-
-    -Tasker 3.59€ https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=de 
-
-    -AutoTools 1,79€ (Nur über die App AutoApps zu kaufen, muss gekauft werden)  https://play.google.com/store/apps/details?id=com.joaomgcd.autotools 
-
-    -AutoApps https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub 
-    
-    -Watchmaker https://play.google.com/store/apps/details?id=slide.watchFrenzy
-    
-    -Watchmaker Premium 6.99€ https://play.google.com/store/apps/details?id=slide.watchFrenzy.premium
-    
-    -Watchmaker Live Wallpaper: https://play.google.com/store/apps/details?id=slide.watchFrenzy.lwp&hl=de 
-
-Nachdem ihr alle Apps gedownloadet habt, öffnet ihr als erstes AutoApps diese App ist dazu da, um die Vollversionen der Plugins von Tasker zu erwerben, hier lauft ihr jetzt die AutoTools Lizenz für 1.79€. Wenn der Kauf erfolgreich abgeschlossen wurde erkennt ihr das daran, dass das AutoTools nicht mehr ausgegraut ist sondern jetzt farbig dargestellt wird.
-Öffnet Tasker und AutoTools einmal und bestätigt bitte alle Berechtigungen nach denen geragt wird. Es wird auch eine Aufforderung zur Abschaltung der Akku-Optimierung angezeigt, meist aber erst wenn ihr die App über den Zurück button wieder beendet.
-Da Ihr 
-ALLE PREISE SIND VOM 17.03.2020 DIESE PREISE WURDEN NICHT VON MIR ERHOBEN
-Wenn ihr alle Apps installiert habt, müsst ihr im Grunde genommen nur die Berechtigungen für Tasker und AutoTools erteilen.
-
-Dafür geht ihr im Smartphone in die Einstellungen, Einstellungen >Apps > Spezieller Zugriff.
-Hier werden euch jetzt mehrere Menüpunkte angezeigt. 
-
-Beginnt beim ersten, geht  alle Menüpunkte durch die ich hier auf diesem Bild gelb markiert habe
-
- https://imgur.com/a/IiniWvW 
-
-
-Anschließend müsst ihr noch die App spezifischen Berechtigungen aktivieren.
-
-Das geht unter Einstellungen/Apps dort findet ihr alle installierten Apps 
-Sucht die vorher installierten Apps aus der Liste und geht dann auf Berechtigungen. Dort aktiviert ihr alle Schalter. 
-Das macht ihr bei-
--AutoTools
--Tasker
--Watchmaker
--Watchmaker Live Wallpaper 
-
-
-Öffnet nun AutoTools und Tasker einmal und bestätigt alle Fragen nach Berechtigungen die angezeigt werden, auch solltet ihr die benachrichtigung im nicht stören modus aktzeptieren, sonst kann weder Tasker, AutoTools oder Watchmaker richgit arbeiten wenn ihr diesen eingeschaltet habt. 
-Ihr habt zwar im Vorfeld schon alle Berechtigungen aktiviert es kann trotzdem sein das euch die Meldungen angezeigt werden.
-
-Die Apps sind nun alle installiert und ihr könnt das Tasker Projekt von mir importieren.
-
-Klickt auf den folgenden Link, ihr werdet in euren Browser auf die Taskernet Seite weitergeleitet.
-
-    https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Project%3AFULL+ANDROID+SUPPORT 
-
-Unter der Beschreibung befindet sich ein grüner Button "Import" den drückt ihr, anschließend öffnet sich Tasker und es erscheinen nacheinander 2-3 Meldungen die ihr mit "Yes/Ja" bestätigt.
-Nun erscheint unten neben dem kleinen Häuschen ein xDrip Icon. Das ist das Zeichen dafür das alles hingehauen hat. 
-
-Hier seht ihr wo ihr den Lokalen Broadcast aktiviert damit xDrip die Werte für Tasker verfügbar macht, sehr wichtig!! sonst läuft nix!
-xDrip local Broadcast: https://imgur.com/gallery/Se9Psgp  
-
-Wenn das erledigt ist seit ihr fertig und ihr könnt nun eines der Watchfaces hier downloaden: 
-
-    https://taskernet.com/shares/?user=AS35m8mlt5xx0ME%2BtNTXK6rFnQPs1RUb38m9tui3GLZpydqGl3C7iL1YYOsaI8lQbmAxMf%2B4&id=Project%3AxDrip%2B+Watchmaker+Project
-
-hier lest ihr nach wie ihr diese dann in Watchmaker importiert:
-
-    https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/Watchfaces/README.md 
-
-Anschliessend lest ihr hier nach wie die Watchfaces dann vom dort in die Watchmaker Live Wallpaper App importiert werden: 
-
-    https://github.com/wagnefrede/xDrip-and-AAPS-Notifications-for-TiZENOS-WEAROS-Watchfaces-Tasker-AutoNotification-Watchmaker/blob/master/Watchfaces/LIVE%20WALLPAPER%20README.md 
-
-wenn ihr nun wieder in der Watchmaker Live Wallpaper App seit, passt ihr nur noch die Größe wie gewünscht an und klickt oben rechts auf "Save" und anschliessend auf Hintergundbild festlegen. Ihr könnt auswählen ob ihr das Watchface nur für den Homescreen oder für Homescreen und Lockscreen einrichten wollt. 
-
-
-
-Für den Fall das ihr AAPS nutzt und die AAPS Statusline aus xDrip verwenden wollt, könnt ihr im Tasker Projekt unter Profile das zweite Profil aktivieren und dann damit dieses Watchface hier benutzen. Andernfalls könnt ihr das zweite Profil und den dazugehörigen Task ignorieren.
-
-!!!!!ACHTUNG Die AAPS Statusline funtkioniert im moment noch nciht richtig. Wird in Zukunft nachgeliefert!!!!
-
-
-Fragen und Anregungen bitte an typ1.diafreddy@gmail.com
-
-
-
-
-
-    FOR FULL ANDROID WATCHES ONLY!!
-    
 English:
 
 
@@ -122,7 +24,7 @@ Please install the current xDrip + version first.
 
     -Watchmaker Premium 6.99 € https://play.google.com/store/apps/details?id=slide.watchFrenzy.premium
 
-    -Watchmaker Live Wallpaper: https://play.google.com/store/apps/details?id=slide.watchFrenzy.lwp&hl=de
+<b>   NOT INSTALL - Watchmaker LIVE Wallpaper!!!!!!!!!!<b/>
 
 After you have downloaded all the apps, the first thing you do is open AutoApps. This app is there to purchase the full versions of the plugins from Tasker, here you run the AutoTools license for 1.79 €. If the purchase has been successfully completed, you can tell that the AutoTools is no longer grayed out but is now shown in color.
 Open Tasker and AutoTools once and please confirm all permissions you are asking for. A request to switch off the battery optimization is also displayed, but usually only when you exit the app with the Back button.
